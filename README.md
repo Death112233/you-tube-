@@ -1,7 +1,7 @@
 # 🔍 Ultimate Subdomain Enumeration Toolkit
-### you tube subscribe 
+### subscribe youtube channel 
 https://youtu.be/FxwGwx9WgG4?si=vcteaVRfEUqOU9Oz
-Complete subdomain reconnaissance workflow for bug bounty and penetration testing.
+# Complete subdomain reconnaissance workflow for bug bounty and penetration testing.
 
 ## 📦 Tools Used
 - **Passive**: Subfinder, Amass, Findomain, AssetFinder, crt.sh, GitHub Subdomains
