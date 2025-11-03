@@ -73,7 +73,5 @@ For educational and authorized testing only. Always get proper permission before
 **📝 Note:** Replace `target.com` with your target domain and `YOUR_GITHUB_TOKEN` with actual token.
 
 ---
-
-Copy-paste ke liye ready hai! GitHub par daal do directly. 😊
 # subscribe youtube channel 
 https://youtu.be/FxwGwx9WgG4?si=vcteaVRfEUqOU9Oz
