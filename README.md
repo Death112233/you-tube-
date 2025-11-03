@@ -1,6 +1,4 @@
 # 🔍 Ultimate Subdomain Enumeration Toolkit
-### subscribe youtube channel 
-https://youtu.be/FxwGwx9WgG4?si=vcteaVRfEUqOU9Oz
 # Complete subdomain reconnaissance workflow for bug bounty and penetration testing.
 
 ## 📦 Tools Used
@@ -77,3 +75,5 @@ For educational and authorized testing only. Always get proper permission before
 ---
 
 Copy-paste ke liye ready hai! GitHub par daal do directly. 😊
+# subscribe youtube channel 
+https://youtu.be/FxwGwx9WgG4?si=vcteaVRfEUqOU9Oz
